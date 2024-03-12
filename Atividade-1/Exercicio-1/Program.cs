@@ -19,7 +19,7 @@ class Program{
         //saida de dados
         Console.WriteLine("O valor do perimetro do retângulo é: "+ figurePerimeter);
         Console.WriteLine("O valor da área do retângulo é: "+ figureArea);
-        Console.WriteLine($"O valor da diagonal do retângulo é: {0:2F}", figureDiagonal);
+        Console.WriteLine("O valor da diagonal do retângulo é: {0:F2}", figureDiagonal);
     }
 }
 

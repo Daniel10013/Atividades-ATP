@@ -1,0 +1,15 @@
+C:\Users\1526493\Desktop\Atividades\Atividades-ATP\Atividade-1\Exercicio-2\obj\Debug\net8.0\Exercicio-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1526493\Desktop\Atividades\Atividades-ATP\Atividade-1\Exercicio-2\obj\Debug\net8.0\Exercicio-2.AssemblyInfoInputs.cache
+C:\Users\1526493\Desktop\Atividades\Atividades-ATP\Atividade-1\Exercicio-2\obj\Debug\net8.0\Exercicio-2.AssemblyInfo.cs
+C:\Users\1526493\Desktop\Atividades\Atividades-ATP\Atividade-1\Exercicio-2\obj\Debug\net8.0\Exercicio-2.csproj.CoreCompileInputs.cache
+C:\Users\1526493\Desktop\Atividades\Atividades-ATP\Atividade-1\Exercicio-2\obj\Debug\net8.0\Exercicio-2.sourcelink.json
+C:\Users\1526493\Desktop\Atividades\Atividades-ATP\Atividade-1\Exercicio-2\bin\Debug\net8.0\Exercicio-2.exe
+C:\Users\1526493\Desktop\Atividades\Atividades-ATP\Atividade-1\Exercicio-2\bin\Debug\net8.0\Exercicio-2.deps.json
+C:\Users\1526493\Desktop\Atividades\Atividades-ATP\Atividade-1\Exercicio-2\bin\Debug\net8.0\Exercicio-2.runtimeconfig.json
+C:\Users\1526493\Desktop\Atividades\Atividades-ATP\Atividade-1\Exercicio-2\bin\Debug\net8.0\Exercicio-2.dll
+C:\Users\1526493\Desktop\Atividades\Atividades-ATP\Atividade-1\Exercicio-2\bin\Debug\net8.0\Exercicio-2.pdb
+C:\Users\1526493\Desktop\Atividades\Atividades-ATP\Atividade-1\Exercicio-2\obj\Debug\net8.0\Exercicio-2.dll
+C:\Users\1526493\Desktop\Atividades\Atividades-ATP\Atividade-1\Exercicio-2\obj\Debug\net8.0\refint\Exercicio-2.dll
+C:\Users\1526493\Desktop\Atividades\Atividades-ATP\Atividade-1\Exercicio-2\obj\Debug\net8.0\Exercicio-2.pdb
+C:\Users\1526493\Desktop\Atividades\Atividades-ATP\Atividade-1\Exercicio-2\obj\Debug\net8.0\Exercicio-2.genruntimeconfig.cache
+C:\Users\1526493\Desktop\Atividades\Atividades-ATP\Atividade-1\Exercicio-2\obj\Debug\net8.0\ref\Exercicio-2.dll
