@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\1526493\\Desktop\\Atividades-ATP\\Atividade-1\\Exercicio-1\\Exercicio-1.csproj": {}
+    "C:\\Users\\1526493\\Desktop\\Atividades-ATP\\Atividade-1\\Exercicio-4\\Exercicio-4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\1526493\\Desktop\\Atividades-ATP\\Atividade-1\\Exercicio-1\\Exercicio-1.csproj": {
+    "C:\\Users\\1526493\\Desktop\\Atividades-ATP\\Atividade-1\\Exercicio-4\\Exercicio-4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\1526493\\Desktop\\Atividades-ATP\\Atividade-1\\Exercicio-1\\Exercicio-1.csproj",
-        "projectName": "Exercicio-1",
-        "projectPath": "C:\\Users\\1526493\\Desktop\\Atividades-ATP\\Atividade-1\\Exercicio-1\\Exercicio-1.csproj",
+        "projectUniqueName": "C:\\Users\\1526493\\Desktop\\Atividades-ATP\\Atividade-1\\Exercicio-4\\Exercicio-4.csproj",
+        "projectName": "Exercicio-4",
+        "projectPath": "C:\\Users\\1526493\\Desktop\\Atividades-ATP\\Atividade-1\\Exercicio-4\\Exercicio-4.csproj",
         "packagesPath": "C:\\Users\\1526493\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\1526493\\Desktop\\Atividades-ATP\\Atividade-1\\Exercicio-1\\obj\\",
+        "outputPath": "C:\\Users\\1526493\\Desktop\\Atividades-ATP\\Atividade-1\\Exercicio-4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
