@@ -23,9 +23,9 @@ class Program
         sum = currentAccount + inverseAccountNumber;
 
         mil = sum / 1000;
-        cent = (sum / 1000) % 100;
-        deze = (sum / 1000) % 10;
-        un = (sum / 1000) % 10;
+        cent = (sum % 1000) / 100;
+        deze = (sum % 100) / 10;
+        un = sum % 10;
 
         finalSum = (mil * 0) + (cent * 1) + (deze * 2) + (un * 3);
         verificador = finalSum % 10;
