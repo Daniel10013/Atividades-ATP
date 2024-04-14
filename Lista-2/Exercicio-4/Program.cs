@@ -4,7 +4,7 @@ class Program
 {
     public static void Main()
     {
-        Console.WriteLine("Ativiade 2 - Exercício 3 \n");
+        Console.WriteLine("Ativiade 2 - Exercício 4 \n");
 
         int currentYear = 2024;
         int birthYear, age;

@@ -1,0 +1,15 @@
+C:\Dani\Faculdade\Repositórios\Atividades-ATP\Lista-2\Exercicio-6\obj\Debug\net8.0\Exercicio-6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dani\Faculdade\Repositórios\Atividades-ATP\Lista-2\Exercicio-6\obj\Debug\net8.0\Exercicio-6.AssemblyInfoInputs.cache
+C:\Dani\Faculdade\Repositórios\Atividades-ATP\Lista-2\Exercicio-6\obj\Debug\net8.0\Exercicio-6.AssemblyInfo.cs
+C:\Dani\Faculdade\Repositórios\Atividades-ATP\Lista-2\Exercicio-6\obj\Debug\net8.0\Exercicio-6.csproj.CoreCompileInputs.cache
+C:\Dani\Faculdade\Repositórios\Atividades-ATP\Lista-2\Exercicio-6\obj\Debug\net8.0\Exercicio-6.sourcelink.json
+C:\Dani\Faculdade\Repositórios\Atividades-ATP\Lista-2\Exercicio-6\bin\Debug\net8.0\Exercicio-6.exe
+C:\Dani\Faculdade\Repositórios\Atividades-ATP\Lista-2\Exercicio-6\bin\Debug\net8.0\Exercicio-6.deps.json
+C:\Dani\Faculdade\Repositórios\Atividades-ATP\Lista-2\Exercicio-6\bin\Debug\net8.0\Exercicio-6.runtimeconfig.json
+C:\Dani\Faculdade\Repositórios\Atividades-ATP\Lista-2\Exercicio-6\bin\Debug\net8.0\Exercicio-6.dll
+C:\Dani\Faculdade\Repositórios\Atividades-ATP\Lista-2\Exercicio-6\bin\Debug\net8.0\Exercicio-6.pdb
+C:\Dani\Faculdade\Repositórios\Atividades-ATP\Lista-2\Exercicio-6\obj\Debug\net8.0\Exercicio-6.dll
+C:\Dani\Faculdade\Repositórios\Atividades-ATP\Lista-2\Exercicio-6\obj\Debug\net8.0\refint\Exercicio-6.dll
+C:\Dani\Faculdade\Repositórios\Atividades-ATP\Lista-2\Exercicio-6\obj\Debug\net8.0\Exercicio-6.pdb
+C:\Dani\Faculdade\Repositórios\Atividades-ATP\Lista-2\Exercicio-6\obj\Debug\net8.0\Exercicio-6.genruntimeconfig.cache
+C:\Dani\Faculdade\Repositórios\Atividades-ATP\Lista-2\Exercicio-6\obj\Debug\net8.0\ref\Exercicio-6.dll
