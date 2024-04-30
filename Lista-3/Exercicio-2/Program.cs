@@ -2,9 +2,10 @@
 
 class Program{
     public static void Main(){
-        int input, countPositive = 0, countNegative = 0, countZero = 0;
+        int input, countPositive = 0, countNegative = 0, countZero = 0, countTotal = 0;
+        double percentNegative, percentPositive, percentZero;
         char isToContinue;
-        Console.WriteLine("Ativiade 3 - Exercício 1 \n");
+        Console.WriteLine("Ativiade 3 - Exercício 2 \n");
 
         //entrada de dados
         input = GetInput();
@@ -21,6 +22,8 @@ class Program{
             if(input < 0){
                 countNegative++;
             }
+
+            countTotal++;
             
             Console.WriteLine("Deseja continuar? S / N");
             isToContinue = char.Parse(Console.ReadLine());
@@ -30,11 +33,17 @@ class Program{
                 input = GetInput();
             }
         }
+
+        percentPositive = countPositive != 0 ? (countPositive / countTotal) * 100 : 0;
+        Console.WriteLine((countPositive / countTotal) * 100);
+        percentNegative = countNegative != 0 ? (countNegative / countTotal) * 100 : 0;
+        Console.WriteLine((countNegative / countTotal) * 100);
+        percentZero = countZero != 0 ? (countZero / countTotal) * 100 : 0;
     
         //saida de dados
-        Console.WriteLine("O número de valores positivos é: " + countPositive);
-        Console.WriteLine("O número de valores negativos é: " + countNegative);
-        Console.WriteLine("O número de zeros é: " + countZero);
+        Console.WriteLine("O percentual de valores positivos é: " + percentPositive);
+        Console.WriteLine("O percentual valores negativos é: " + percentNegative);
+        Console.WriteLine("O percentual zeros é: " + percentZero);
     }
 
     public static char isToContinueIsValid(char isToContinue){
