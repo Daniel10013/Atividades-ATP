@@ -1,0 +1,15 @@
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\Lista-3\Exercicio-10\obj\Debug\net8.0\Exercicio-10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\Lista-3\Exercicio-10\obj\Debug\net8.0\Exercicio-10.AssemblyInfoInputs.cache
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\Lista-3\Exercicio-10\obj\Debug\net8.0\Exercicio-10.AssemblyInfo.cs
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\Lista-3\Exercicio-10\obj\Debug\net8.0\Exercicio-10.csproj.CoreCompileInputs.cache
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\Lista-3\Exercicio-10\obj\Debug\net8.0\Exercicio-10.sourcelink.json
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\Lista-3\Exercicio-10\bin\Debug\net8.0\Exercicio-10.exe
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\Lista-3\Exercicio-10\bin\Debug\net8.0\Exercicio-10.deps.json
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\Lista-3\Exercicio-10\bin\Debug\net8.0\Exercicio-10.runtimeconfig.json
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\Lista-3\Exercicio-10\bin\Debug\net8.0\Exercicio-10.dll
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\Lista-3\Exercicio-10\bin\Debug\net8.0\Exercicio-10.pdb
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\Lista-3\Exercicio-10\obj\Debug\net8.0\Exercicio-10.dll
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\Lista-3\Exercicio-10\obj\Debug\net8.0\refint\Exercicio-10.dll
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\Lista-3\Exercicio-10\obj\Debug\net8.0\Exercicio-10.pdb
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\Lista-3\Exercicio-10\obj\Debug\net8.0\Exercicio-10.genruntimeconfig.cache
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\Lista-3\Exercicio-10\obj\Debug\net8.0\ref\Exercicio-10.dll

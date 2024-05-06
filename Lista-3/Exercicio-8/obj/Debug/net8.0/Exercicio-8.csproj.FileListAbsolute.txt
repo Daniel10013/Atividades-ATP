@@ -1,0 +1,15 @@
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\Lista-3\Exercicio-8\obj\Debug\net8.0\Exercicio-8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\Lista-3\Exercicio-8\obj\Debug\net8.0\Exercicio-8.AssemblyInfoInputs.cache
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\Lista-3\Exercicio-8\obj\Debug\net8.0\Exercicio-8.AssemblyInfo.cs
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\Lista-3\Exercicio-8\obj\Debug\net8.0\Exercicio-8.csproj.CoreCompileInputs.cache
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\Lista-3\Exercicio-8\obj\Debug\net8.0\Exercicio-8.sourcelink.json
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\Lista-3\Exercicio-8\bin\Debug\net8.0\Exercicio-8.exe
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\Lista-3\Exercicio-8\bin\Debug\net8.0\Exercicio-8.deps.json
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\Lista-3\Exercicio-8\bin\Debug\net8.0\Exercicio-8.runtimeconfig.json
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\Lista-3\Exercicio-8\bin\Debug\net8.0\Exercicio-8.dll
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\Lista-3\Exercicio-8\bin\Debug\net8.0\Exercicio-8.pdb
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\Lista-3\Exercicio-8\obj\Debug\net8.0\Exercicio-8.dll
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\Lista-3\Exercicio-8\obj\Debug\net8.0\refint\Exercicio-8.dll
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\Lista-3\Exercicio-8\obj\Debug\net8.0\Exercicio-8.pdb
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\Lista-3\Exercicio-8\obj\Debug\net8.0\Exercicio-8.genruntimeconfig.cache
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\Lista-3\Exercicio-8\obj\Debug\net8.0\ref\Exercicio-8.dll

@@ -2,7 +2,7 @@
 
 class Program{
     public static void Main(){
-        int input, countPositive = 0, countNegative = 0, countZero = 0, countTotal = 0;
+        double input, countPositive = 0, countNegative = 0, countZero = 0, countTotal = 0;
         double percentNegative, percentPositive, percentZero;
         char isToContinue;
         Console.WriteLine("Ativiade 3 - Exercício 2 \n");
@@ -35,15 +35,13 @@ class Program{
         }
 
         percentPositive = countPositive != 0 ? (countPositive / countTotal) * 100 : 0;
-        Console.WriteLine((countPositive / countTotal) * 100);
         percentNegative = countNegative != 0 ? (countNegative / countTotal) * 100 : 0;
-        Console.WriteLine((countNegative / countTotal) * 100);
         percentZero = countZero != 0 ? (countZero / countTotal) * 100 : 0;
     
         //saida de dados
-        Console.WriteLine("O percentual de valores positivos é: " + percentPositive);
-        Console.WriteLine("O percentual valores negativos é: " + percentNegative);
-        Console.WriteLine("O percentual zeros é: " + percentZero);
+        Console.WriteLine("O percentual de valores positivos é: {0:f2}", percentPositive);
+        Console.WriteLine("O percentual valores negativos é: {0:f2}", percentNegative);
+        Console.WriteLine("O percentual zeros é: {0:f2}", percentZero);
     }
 
     public static char isToContinueIsValid(char isToContinue){
