@@ -1,11 +1,11 @@
-namespace Atividades
+namespace Exercises
 {
-    public class Atividade3: BaseExercise
+    public class Exercise3: BaseExercise
     {
         public void Run()
         {
             int value1, value2, value3;
-            int higher = 0, lower = int.MaxValue, mid = 0;
+            int higher = int.MinValue, lower = int.MaxValue, mid = 0;
             bool isToContinue = true;
 
             while(isToContinue != false){

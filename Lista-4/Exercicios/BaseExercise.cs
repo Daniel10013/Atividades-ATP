@@ -1,6 +1,6 @@
 using System;
 
-namespace Atividades
+namespace Exercises
 {
     public interface BaseExercise
     {

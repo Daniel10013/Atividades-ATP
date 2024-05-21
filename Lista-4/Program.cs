@@ -1,27 +1,26 @@
 ﻿using System;
-using Atividades;
+using Exercises;
 
 class Program
-{
+{ 
     public static void Main()
     {
         int selectedExercise = GetInput();
 
         BaseExercise[] exercises = [
-            new Atividade1(),
-            new Atividade2(),
-            new Atividade3(),
-            new Atividade4(),
-            new Atividade1(),
-            new Atividade1(),
-            new Atividade1(),
-            new Atividade1(),
-            new Atividade1(),
-            new Atividade1()
+            new Exercise1(),
+            new Exercise2(),
+            new Exercise3(),
+            new Exercise4(),
+            new Exercise5(),
+            new Exercise6(),
+            new Exercise1(),
+            new Exercise1(),
+            new Exercise1(),
+            new Exercise1()
         ];
 
         exercises[selectedExercise - 1].Run();
-
     }
 
 

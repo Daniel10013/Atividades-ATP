@@ -1,8 +1,8 @@
 using System;
 
-namespace Atividades
+namespace Exercises
 {
-    public class Atividade1: BaseExercise
+    public class Exercise1: BaseExercise
     {
         public void Run()
         {
