@@ -14,10 +14,10 @@ class Program
             new Exercise4(),
             new Exercise5(),
             new Exercise6(),
-            new Exercise1(),
-            new Exercise1(),
-            new Exercise1(),
-            new Exercise1()
+            new Exercise7(),
+            new Exercise8(),
+            new Exercise9(),
+            new Exercise10()
         ];
 
         exercises[selectedExercise - 1].Run();

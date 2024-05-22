@@ -8,21 +8,36 @@ namespace Exercises
         }
 
         public void GetConcept(){
-            int finalGrade;
-
-            Console.WriteLine("Digite a nota final:");
-            finalGrade = GetInput();
-        
+            int finalGrade;        
             bool isToContinue = true;
-            string message;
 
             while(isToContinue != false){
 
-                Console.WriteLine("Digite um número:");
-                value = GetInput();
+                Console.WriteLine("Digite a nota final:");
+                finalGrade = GetInput();
+                if(finalGrade <= 39){
+                    Console.WriteLine("F");
+                }
 
-                message = NumberIsPositive(value) == true ? "é positivo" : "é negativo";
-                Console.WriteLine("O número " + message);
+                if(finalGrade >= 40 && finalGrade <= 59){
+                    Console.WriteLine("E");
+                }
+
+                if(finalGrade >= 60 && finalGrade <= 69){
+                    Console.WriteLine("D");
+                }
+
+                if(finalGrade >= 70 && finalGrade <= 79){
+                    Console.WriteLine("C");
+                }
+
+                if(finalGrade >= 80 && finalGrade <= 89){
+                    Console.WriteLine("B");
+                }
+
+                if(finalGrade >= 90){
+                    Console.WriteLine("A");
+                }
 
                 Console.WriteLine("Deseja continuar? S | N");
                 isToContinue = Console.ReadLine().ToLower() == "s" ? true : false;            

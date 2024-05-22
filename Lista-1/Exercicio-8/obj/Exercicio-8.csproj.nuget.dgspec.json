@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\1526493\\Desktop\\Atividades\\Atividades-ATP\\Lista-1\\Exercicio-8\\Exercicio-8.csproj": {}
+    "C:\\Dani\\Faculdade\\Primeiro Periodo\\Atividades-ATP\\Lista-1\\Exercicio-8\\Exercicio-8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\1526493\\Desktop\\Atividades\\Atividades-ATP\\Lista-1\\Exercicio-8\\Exercicio-8.csproj": {
+    "C:\\Dani\\Faculdade\\Primeiro Periodo\\Atividades-ATP\\Lista-1\\Exercicio-8\\Exercicio-8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\1526493\\Desktop\\Atividades\\Atividades-ATP\\Lista-1\\Exercicio-8\\Exercicio-8.csproj",
+        "projectUniqueName": "C:\\Dani\\Faculdade\\Primeiro Periodo\\Atividades-ATP\\Lista-1\\Exercicio-8\\Exercicio-8.csproj",
         "projectName": "Exercicio-8",
-        "projectPath": "C:\\Users\\1526493\\Desktop\\Atividades\\Atividades-ATP\\Lista-1\\Exercicio-8\\Exercicio-8.csproj",
-        "packagesPath": "C:\\Users\\1526493\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\1526493\\Desktop\\Atividades\\Atividades-ATP\\Lista-1\\Exercicio-8\\obj\\",
+        "projectPath": "C:\\Dani\\Faculdade\\Primeiro Periodo\\Atividades-ATP\\Lista-1\\Exercicio-8\\Exercicio-8.csproj",
+        "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
+        "outputPath": "C:\\Dani\\Faculdade\\Primeiro Periodo\\Atividades-ATP\\Lista-1\\Exercicio-8\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\1526493\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -39,6 +38,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -60,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
