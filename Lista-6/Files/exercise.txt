@@ -1,0 +1,5 @@
+arquivo para os exercicios, que ira contar quantos caracteres sao a letra a.
+
+imprimindo novas linhas para 
+o outro
+exercicio

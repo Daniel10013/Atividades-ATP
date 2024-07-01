@@ -1,0 +1,15 @@
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\lista-6\obj\Debug\net8.0\Lista-6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\lista-6\obj\Debug\net8.0\Lista-6.AssemblyInfoInputs.cache
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\lista-6\obj\Debug\net8.0\Lista-6.AssemblyInfo.cs
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\lista-6\obj\Debug\net8.0\Lista-6.csproj.CoreCompileInputs.cache
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\lista-6\obj\Debug\net8.0\Lista-6.sourcelink.json
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\Lista-6\bin\Debug\net8.0\Lista-6.exe
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\Lista-6\bin\Debug\net8.0\Lista-6.deps.json
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\Lista-6\bin\Debug\net8.0\Lista-6.runtimeconfig.json
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\Lista-6\bin\Debug\net8.0\Lista-6.dll
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\Lista-6\bin\Debug\net8.0\Lista-6.pdb
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\Lista-6\obj\Debug\net8.0\Lista-6.dll
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\Lista-6\obj\Debug\net8.0\refint\Lista-6.dll
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\Lista-6\obj\Debug\net8.0\Lista-6.pdb
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\Lista-6\obj\Debug\net8.0\Lista-6.genruntimeconfig.cache
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\Lista-6\obj\Debug\net8.0\ref\Lista-6.dll
