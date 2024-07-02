@@ -1,0 +1,15 @@
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\Atividade-Final\bin\Debug\net8.0\Atividade-Final.exe
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\Atividade-Final\bin\Debug\net8.0\Atividade-Final.deps.json
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\Atividade-Final\bin\Debug\net8.0\Atividade-Final.runtimeconfig.json
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\Atividade-Final\bin\Debug\net8.0\Atividade-Final.dll
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\Atividade-Final\bin\Debug\net8.0\Atividade-Final.pdb
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\Atividade-Final\obj\Debug\net8.0\Atividade-Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\Atividade-Final\obj\Debug\net8.0\Atividade-Final.AssemblyInfoInputs.cache
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\Atividade-Final\obj\Debug\net8.0\Atividade-Final.AssemblyInfo.cs
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\Atividade-Final\obj\Debug\net8.0\Atividade-Final.csproj.CoreCompileInputs.cache
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\Atividade-Final\obj\Debug\net8.0\Atividade-Final.sourcelink.json
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\Atividade-Final\obj\Debug\net8.0\Atividade-Final.dll
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\Atividade-Final\obj\Debug\net8.0\refint\Atividade-Final.dll
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\Atividade-Final\obj\Debug\net8.0\Atividade-Final.pdb
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\Atividade-Final\obj\Debug\net8.0\Atividade-Final.genruntimeconfig.cache
+C:\Dani\Faculdade\Primeiro Periodo\Atividades-ATP\Atividade-Final\obj\Debug\net8.0\ref\Atividade-Final.dll

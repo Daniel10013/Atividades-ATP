@@ -1,0 +1,4 @@
+produto1 50 
+produto3 50
+produto2 50
+produto4 50
